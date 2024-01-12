@@ -3,32 +3,41 @@
 <html>
 
 <head>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      background-color: purple;
+    }
 
- <link rel="stylesheet" href="style.css>
+    h1 {
+      color: blue;
+      font-family: Helvetica;
+    }
 
+    p {
+      color: pink;
+    }
+  </style>
 </head>
-
-body{
-    background-color: purple;
-
-}
 
 <body>
 
-h1{
-    color:blue;font-family:helvetica;
-} 
+  <h1> My Updated Website </h1>
 
-p{
-    color:pink;
-}
+  <p>Welcome to the enhanced version of my webpage! We've made some exciting changes to the design and appearance.</p>
 
-<h1> My Website </h1> 
+  <p>Hello. Hola. Sumaq p'unchay.</p>
 
-<p>Welcome to my webpage! </p>
+  <!-- New Tags/Elements Added -->
+  <section>
+    <h2>New Design Features:</h2>
+    <ul>
+      <li>Updated Background Color</li>
+      <li>Customized Heading Styles</li>
+      <li>Unique Paragraph Text Color</li>
+    </ul>
+  </section>
 
-<p>Hello. Hola. Sumaq p'unchay.</p>
-  
 </body>
 
 </html>
