@@ -8,11 +8,20 @@
 
 </head>
 
+body{
+    background-color: purple;
+
+}
+
 <body>
 
 h1{
     color:blue;font-family:helvetica;
 } 
+
+p{
+    color:pink;
+}
 
 <h1> My Website </h1> 
 
