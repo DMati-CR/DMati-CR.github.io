@@ -1,1 +1,26 @@
+h1{
+    color:aqua;
+ font-family:helvetica;   
+}
 
+p{
+    color:blueviolet
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+    <h1> Mati's Website</h1>
+
+    <p>Welcome to my webpage!</p>
+
+</body>
+
+</html>
