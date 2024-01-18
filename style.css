@@ -1,5 +1,5 @@
 h1{
-    color:blueviolet;
+    color:aqua;
  font-family:Cambria;   
 }
 
@@ -8,7 +8,7 @@ p{
 }
 
 body{
-    background-color:blanchedalmond;
+    background-color: pink;
 }
 
 <!DOCTYPE html>
@@ -24,6 +24,10 @@ body{
     <h1> Mati's Website</h1>
 
     <p>Welcome to my webpage!</p>
+
+<p>Please enjoy my garish color choices.</p> 
+
+![Mayan Ruins](Xunan.png)
 
 </body>
 
